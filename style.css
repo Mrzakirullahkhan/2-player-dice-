@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(44, 44, 97);
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{ 
+    text-align: center;
+
+
+}
+.Dice{
+    display: inline-block;
+    text-align: center;
+}
+h1{
+    margin: 40px;
+    text-shadow: 5px 5px white;
+    font-size: 7rem;
+    color: #ca1aff;
+}
+.btn{
+    margin: auto;
+    display: block;
+    padding: 10px;
+    background-color: orange;
+    margin-top: 10px;
+    border: none;
+    border-radius: 3px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+.name{
+    color:rgb(27, 236, 236);
+    font-size: 2rem;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-style: initial;
+    
+}
